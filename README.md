@@ -1,4 +1,4 @@
-## Hi, I'm Dan 👋
+## Hi, I'm Otomje 👋
 
 ### 🎓 Education
 
