@@ -21,6 +21,6 @@ In the future I plan to learn:
 * **JavaScript**
 * **Python** for working on different projects
 * A **frontend framework** (still deciding which one)
-##
+<!-- ##
 
-<img src="cat.jpg" alt="cat" width="200" height="200">
+<img src="cat.jpg" alt="cat" width="200" height="200"> -->
