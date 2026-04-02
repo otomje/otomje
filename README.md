@@ -1,26 +1,35 @@
 ## Hi, I'm Otomje 👋
 
-### 🎓 Education
+### 📄 About me
 
-I'm currently a 10th grade student and learning **frontend development** in parallel.
+My name is Danya. I'm 16 years old, in 10th grade, and learning frontend development. I currently consider myself a junior developer.
 
-### 💻 Knowledge
+### 📚 Knowledge
 
-* **HTML** (good understanding of tags and structure)
+* **HTML**
+    * I understand most of the necessary tags and attributes for modern websites.
+    * I understand markup and structure well.
+
 * **CSS**
-* Currently learning **Git**
+    * I know most of the basic properties, as well as some more advanced ones.
+    * I have good experience with Flexbox, but not much with Grid yet.
+    * I consciously understand what properties are needed and don’t add unnecessary ones.
+    * I can work with responsive design, connect local fonts and packages, create animations, and much more.
 
-### 🚀 Currently Working On
+* **Git**
+    * I know basic Git commands: add, log, status, stash, commit, push, reset, pull, merge, and rebase.
+    * I can work with branches, but I still have little experience.
 
-Right now I'm focusing on improving my **HTML** and **CSS** skills to smoothly transition to learning **JavaScript**.
-
-### 🎯 Goals
-
-In the future I plan to learn:
+### 📌 Goal to learn
 
 * **JavaScript**
-* **Python** for working on different projects
-* A **frontend framework** (still deciding which one)
-<!-- ##
+    * For website logic.
 
-<img src="cat.jpg" alt="cat" width="200" height="200"> -->
+* **React or Angular**
+    * Frontend frameworks.
+
+* **Python**
+    * For personal use or backend features.
+
+* **And other**
+    * I am ready and eager to learn new things.
