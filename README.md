@@ -24,6 +24,6 @@ My name is Danya. I'm 16 years old, in 10th grade, and learning frontend develop
     * I know basic Git commands.
     * I can work with branches, but I still have little experience.
 
-### 📌 Goal to learn
+### 📕 Goal to learn
 
 *  **JavaScript, React or Angular, Python (little), And More 🤔**
