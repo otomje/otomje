@@ -1,33 +1,52 @@
-## Hello 👋
+## Hi there 🖐
 
-### 📄 About me
+### A bit about me:
+My name is Danya. I'm 16 years old, and this year I moved into 11th grade. Alongside school, I'm learning frontend development.
 
-My name is Danya. I'm 16 years old, in 10th grade, and learning frontend development.
+### Languages:
+- Native language: `Ukrainian`
+- Additional language: `English A1 - A2` (currently learning)
 
-### 📚 Knowledge
+### Stack:
+#### 1. HTML
+- I know the `BEM` methodology and use it in my projects.
+- I use modern tags to describe content on a page.
+- I can read and understand markup written by other developers.
 
-- **HTML**
-    - I understand most of the necessary tags and attributes for modern websites.
-    - I understand markup and structure well.
-    - I know the BEM methodology well.
+#### 2. CSS
+- I've learned many of the core properties used in modern development, and I'm also familiar with older ones.
+- I have good experience with `Flex`, and intermediate experience with `Grid`.
+- I can build responsive websites for different devices.
+- I have experience creating animations for elements on a site.
+- I can connect both local and online fonts.
 
-- **CSS**
-    - I know most of the basic properties, as well as some new ones (not all browsers support).
-    - I have good experience with Flexbox, but not much with Grid yet.
-    - I consciously understand what properties are needed and don’t add unnecessary ones.
-    - I can work with responsive design, connect local fonts and packages, create animations, and much more.
+#### 3. SASS
+- I've studied this CSS preprocessor well and can use it confidently in a project.
+- I prefer the `SCSS` syntax, since it's similar to standard `CSS`, but I can also write in the `SASS` syntax.
+- I often use `Mixins` in projects.
 
-- **SASS**
-    - I understand this preprocessor well and can build a proper project with it.
-    - I prefer using the SCSS dialect.
+#### 4. JAVASCRIPT
+- I'm currently at the stage of learning this language.
 
-- **GIT**
-    - I know basic Git commands.
-    - I can work with branches, but I still have little experience.
+### Tools:
 
-- **GULP**
-    - Started learning Gulp and used it in the project.
+#### 1. GIT
+- I know the basic commands and use them in all my projects.
+- I've worked with branches in some projects.
+- I haven't worked with other developers yet, so I don't have team collaboration experience.
 
-### 📕 Goal to learn
+#### 2. GITHUB
+- I use it to store my projects in repositories.
 
--  **JavaScript, React or Angular, Python (little), And More**
+#### 3. NPM
+- I use it to install libraries for my projects.
+
+#### 4. GULP
+- I've looked into this task runner and used it in a project.
+
+#### 5. IDE
+- I mainly use `Visual Studio Code`, since it's lightweight, fast, and has a lot of extensions.
+- I also use `Sublime Text` for quick editing.
+
+#### 6. FIGMA
+- I often use it to create mockups and logos for my websites.
