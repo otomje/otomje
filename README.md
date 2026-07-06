@@ -8,6 +8,7 @@ My name is Danya. I'm 16 years old, and this year I moved into 11th grade. Along
 - Additional language: `English A1 - A2` (currently learning)
 
 ### Stack:
+
 #### 1. HTML
 - I know the `BEM` methodology and use it in my projects.
 - I use modern tags to describe content on a page.
