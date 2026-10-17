@@ -1,6 +1,7 @@
-## 🖐
+# 🖐
+Love to play 🙃
 
-```json
+```markdown
 {
     "name": "Danya",
     "since": 2025,
@@ -16,7 +17,7 @@
         "bots": [ "schedules-lesson-bot" ],
         "extensions": [ "autoplay-block-extension" ],
         "layouts": [ "wallet-to-scss", "login-register-app", "tacktreker", "palette" ],
-        "mockups": [ "Calculator App" ]
+        "mockups": [ "[Calculator App](https://www.figma.com/community/file/1662765467345981791)" ]
     }
 }
 ```
