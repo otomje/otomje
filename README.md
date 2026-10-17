@@ -1,7 +1,7 @@
 # 🖐
 Love to play 🙃
 
-```markdown
+<pre>
 {
     "name": "Danya",
     "since": 2025,
@@ -17,7 +17,7 @@ Love to play 🙃
         "bots": [ "schedules-lesson-bot" ],
         "extensions": [ "autoplay-block-extension" ],
         "layouts": [ "wallet-to-scss", "login-register-app", "tacktreker", "palette" ],
-        "mockups": [ "[Calculator App](https://www.figma.com/community/file/1662765467345981791)" ]
+        "mockups": [ "<a href="https://www.figma.com/community/file/1662765467345981791">Calculator App</a>" ]
     }
 }
-```
+</pre>
